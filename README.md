@@ -6,7 +6,8 @@ I love discussing about tech, finance, or anything that can uplift communities. 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Interested+in+Research+and+Development;Loves+Working+on+Financial+and+Healthcare+Usecases)](https://git.io/typing-svg)
 
- * You can find me on [LinkedIn](https://www.linkedin.com/in/hemakalyan) and do follow me :)
+ * You can find me on [LinkedIn](https://www.linkedin.com/in/lethabo-malebana-3a0618355) and do follow me :)
+ * 💬 Ask me about Pytorch, Agentic workflows
 
 **If you find my work impactful and want to help sustain these efforts, consider collaborating with me**
 
@@ -20,11 +21,10 @@ I love discussing about tech, finance, or anything that can uplift communities. 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-#### 🎖 Nice Things That Happened Along The Way
+#### 🎖 "Nice" Things That Happened Along The Way
 
 * Reduced training time from 6 hours to 45 minutes.
 * Translated complex concept into simple visualization.
-* I have conducted multiple <b>Data Science and Machine Learning Seminars and Workshops</b>, which have helped so many students
 * I've assisted a few individuals in aligning with their project and work requirements and delivering.
 * I've done multiple <b>End-to-End Projects</b> on various use cases such as Chatbot Development, Natural Language Processing.
 
