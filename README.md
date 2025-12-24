@@ -1,6 +1,6 @@
 <h1>Hi there, I'm <a href="">Lethabo Malebana</a>👋</h1>
 
-I'm an Artificial Intelligence and Machine Learning student with 6 months of hands-on experience in innovating and deploying AI models.  Driven by a deep passion for AI, I actively research open-source and industry-leading libraries and tools, build end-to-end projects across diverse use cases and domains, while concurrently working on furthering my studies.
+I'm an Artificial Intelligence and Machine Learning student with 6 months of self experience in innovating and deploying AI models.  Driven by a deep passion for AI, I actively research open-source and industry-leading libraries and tools, build end-to-end projects across diverse use cases and domains, while concurrently working on furthering my studies.
 
 I love discussing about tech, finance, or anything that can uplift communities. If you’re building something interesting or want to contribute, let’s connect. Your support helps maintain open-source projects and spark new ideas!
 
